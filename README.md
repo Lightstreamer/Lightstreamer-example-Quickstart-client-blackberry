@@ -1,7 +1,7 @@
 # Lightstreamer - Tester - BlackBerry Client #
 <!-- START DESCRIPTION lightstreamer-example-tester-client-blackberry -->
 
-This example, called "test", is not made for running on real devices, since its output is written on the console. Moreover nothing is displayed on the display.
+This example, called "Tester", is not made for running on real devices, since its output is written on the console. Moreover nothing is displayed on the display.
 You can use the provided source code as a starting point to familiarize with the [Lightstreamer BlackBerry Client API](http://www.lightstreamer.com/docs/client_blackberry_api/index.html).
 
 <!-- END DESCRIPTION lightstreamer-example-tester-client-blackberry -->
