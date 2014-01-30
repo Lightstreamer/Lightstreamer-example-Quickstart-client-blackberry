@@ -1,4 +1,4 @@
-# Lightstreamer - Tester - BlackBerry Client #
+# Lightstreamer - Quickstart Example - BlackBerry Client #
 <!-- START DESCRIPTION lightstreamer-example-tester-client-blackberry -->
 
 This example, called "Tester", is not made for running on real devices, since its output is written on the console. Moreover nothing is displayed on the display.
