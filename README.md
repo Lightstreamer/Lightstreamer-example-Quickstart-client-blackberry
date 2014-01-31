@@ -1,10 +1,10 @@
 # Lightstreamer - Quickstart Example - BlackBerry Client #
-<!-- START DESCRIPTION lightstreamer-example-tester-client-blackberry -->
+<!-- START DESCRIPTION lightstreamer-example-quickstart-client-blackberry -->
 
 This example, called "Tester", is not made for running on real devices, since its output is written on the console. Moreover nothing is displayed on the display.
 You can use the provided source code as a starting point to familiarize with the [Lightstreamer BlackBerry Client API](http://www.lightstreamer.com/docs/client_blackberry_api/index.html).
 
-<!-- END DESCRIPTION lightstreamer-example-tester-client-blackberry -->
+<!-- END DESCRIPTION lightstreamer-example-quickstart-client-blackberry -->
 
 Check out the sources for further explanations. 
 
