@@ -7,14 +7,13 @@ This project contains the source files of a sample application, that shows how t
 
 ## Details
 
-This example, called "Tester", is not made for running on real devices, since its output is written on the console. Moreover nothing is displayed on the display.
+These examples, called "Tester" and "DistictTester", are not made for running on real devices, since the output is written on the console. Moreover nothing is displayed on the display.
 
 <!-- END DESCRIPTION lightstreamer-example-quickstart-client-blackberry -->
 
-By the current configuration, specified in "/src/javametest/tester.java", the demo tries to connect to a local installation of Lightstreamer Server. If needed, the host name, the port number, the Adapter Set name and the Data Adapter
-name could be changed in the source code.
+By the current configuration, specified in `/src/javametest/Tester.java` and in in `/src/javametest/DistinctTester.java`, the demos try to connect to a local installation of Lightstreamer Server. If needed, the host name, the port number, the Adapter Set name and the Data Adapter name could be changed in the source code.
 
-The demo is suitable for running with the [QUOTE_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java), [PORTFOLIO_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Portfolio-adapter-java) and [CHAT_ROOM](https://github.com/Weswit/Lightstreamer-example-Chat-adapter-java) Data Adapters.
+The demos are suitable for running with the [QUOTE_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java), [PORTFOLIO_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Portfolio-adapter-java) and [CHAT_ROOM](https://github.com/Weswit/Lightstreamer-example-Chat-adapter-java) Data Adapters.
 
 Check out the sources code for further explanations. 
 
