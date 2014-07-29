@@ -40,9 +40,9 @@ import com.lightstreamer.javameclient.midp.logger.Logger;
 
 
 /**
- * Class Tester.
+ * Class DistinctTester.
  */
-public class Tester extends MIDlet implements CommandListener {
+public class DistinctTester extends MIDlet implements CommandListener {
 
     static boolean useSingleConnection = false;
     static boolean useReusableItemUpdates = true;
@@ -88,9 +88,9 @@ public class Tester extends MIDlet implements CommandListener {
     
     
     /**
-     * Constructor Tester.
+     * Constructor DistinctTester.
      */
-    public Tester() {
+    public DistinctTester() {
         super();
 
         logger.log("TEST STARTS");
