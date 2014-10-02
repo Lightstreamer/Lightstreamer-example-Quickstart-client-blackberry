@@ -3,17 +3,17 @@
 
 The *Quickstart Example* provides the source code to build very simple and basic client applications, used to test the capability of the Client APIs to connect and receive data from Lightstreamer Server. The examples can be used to familiarize with the Client APIs and as a reference on how to use them, and can be used as a starting point for client application implementations.
 
-This project contains the source files of a sample application, that shows how the [Lightstreamer BlackBerry Client API](http://www.lightstreamer.com/docs/client_blackberry_api/index.html) can be used to connect to Lightstreamer Server.
+This project contains the source files of a sample application that shows how the [Lightstreamer BlackBerry Client API](http://www.lightstreamer.com/docs/client_blackberry_api/index.html) can be used to connect to Lightstreamer Server.
 
 ## Details
 
-These examples, called "Tester" and "DistictTester", are not made for running on real devices, since the output is written on the console. Moreover nothing is displayed on the display.
+These examples, called "Tester" and "DistictTester", are not made for running on real devices, because the output is written on the console. Moreover, nothing is displayed on the display.
 
 <!-- END DESCRIPTION lightstreamer-example-quickstart-client-blackberry -->
 
-By the current configuration, specified in `/src/javametest/Tester.java` and in in `/src/javametest/DistinctTester.java`, the demos try to connect to a local installation of Lightstreamer Server. If needed, the host name, the port number, the Adapter Set name and the Data Adapter name could be changed in the source code.
+By the current configuration, specified in `/src/javametest/Tester.java` and in `/src/javametest/DistinctTester.java`, the demos try to connect to a local installation of Lightstreamer Server. If needed, the host name, port number, Adapter Set name, and Data Adapter name could be changed in the source code.
 
-The demos are suitable for running with the [QUOTE_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java), [PORTFOLIO_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Portfolio-adapter-java) and [CHAT_ROOM](https://github.com/Weswit/Lightstreamer-example-Chat-adapter-java) Data Adapters.
+The demos are suitable for running with the [QUOTE_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java), [PORTFOLIO_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Portfolio-adapter-java), and [CHAT_ROOM](https://github.com/Weswit/Lightstreamer-example-Chat-adapter-java) Data Adapters.
 
 Check out the sources code for further explanations. 
 
