@@ -45,4 +45,4 @@ To build and install a version of this demo, pointing to your local Lightstreame
 ## Lightstreamer Compatibility Notes
 
 - Compatible with Lightstreamer BlackBerry Client API v. 1.1.1 or newer.
-- For Lightstreamer Allegro (+ BlackBerry Client API support), Presto, Vivace.
+- Ensure that BlackBerry Client API is supported by Lightstreamer Server license configuration.
