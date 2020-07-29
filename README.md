@@ -3,7 +3,7 @@
 
 The *Quickstart Example* provides the source code to build very simple and basic client applications, used to test the capability of the Client APIs to connect and receive data from Lightstreamer Server. The examples can be used to familiarize with the Client APIs and as a reference on how to use them, and can be used as a starting point for client application implementations.
 
-This project contains the source files of a sample application that shows how the [Lightstreamer BlackBerry Client API](http://www.lightstreamer.com/docs/client_blackberry_api/index.html) can be used to connect to Lightstreamer Server.
+This project contains the source files of a sample application that shows how the [Lightstreamer BlackBerry Client API](https://lightstreamer.com/api/ls-blackberry-client/latest/index.html) can be used to connect to Lightstreamer Server.
 
 ## Details
 
